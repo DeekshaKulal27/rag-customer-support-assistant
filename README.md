@@ -1,13 +1,13 @@
 # AI Customer Support Copilot
 
-## 🚀 Final Internship Project  
+## Final Internship Project  
 **RAG-Based Customer Support Assistant with Routing, HITL & Analytics**
 
 Built by **Deeksha** for **Innomatics Research Labs Final Evaluation Project**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 AI Customer Support Copilot is an intelligent customer support assistant built using **Retrieval-Augmented Generation (RAG)** architecture.
 
@@ -23,7 +23,7 @@ It also supports:
 
 ---
 
-## 🧠 Features
+## Features
 
 ### Core AI Features
 - RAG-based question answering
@@ -45,7 +45,7 @@ It also supports:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -57,7 +57,7 @@ It also supports:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 rag_customer_support/
@@ -74,7 +74,7 @@ rag_customer_support/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone <your-github-link>
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ---
 
-## 💬 Sample Queries
+## Sample Queries
 
 - Can I get refund after 7 days?
 - How many days shipping takes?
@@ -97,7 +97,7 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Deeksha**  
 Final Project Submission for **Innomatics Research Labs**
