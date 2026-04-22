@@ -52,7 +52,7 @@ It also supports:
 - LangChain
 - ChromaDB
 - Ollama
-- Llama3
+- gemma:2b
 - Sentence Transformers
 
 ---
